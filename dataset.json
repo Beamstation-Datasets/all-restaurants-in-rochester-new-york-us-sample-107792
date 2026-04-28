@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Rochester, New York, a growing city of 211k+. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Rochester, New York, US",
-  "export_job_id": "0a339a78-e55f-40fa-921c-d5c8c95f61b0",
+  "export_job_id": "c61eb5b7-3f27-4f4c-aa97-1ed5159613ef",
   "github_org": "Beamstation-Datasets",
   "id_short": 107792,
   "location_name": "Rochester",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-rochester-new-york-us-sample-107792",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/107792/beamstation_107792_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_pct": 9.95,
-  "sample_records": 110,
-  "sample_sha256": "ef2d0c20ccb1dcce7b10fbc233f4eb0f97a6ac3d113b7f46483aa3557d0b8da9",
-  "sample_size_bytes": 403081,
-  "total_records": 1106,
-  "updated_at": "2026-04-21T10:20:14.149827+00:00"
+  "sample_records": 139,
+  "sample_sha256": "3449ca665b651505b49d10b83a6f93a962fa742754fdcd34ea23c410b57eb3c1",
+  "sample_size_bytes": 473494,
+  "total_records": 1397,
+  "updated_at": "2026-04-28T10:44:27.728235+00:00"
 }
