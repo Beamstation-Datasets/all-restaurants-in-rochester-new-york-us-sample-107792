@@ -1,6 +1,6 @@
 # All Restaurants in Rochester, New York, US
 
-> Free BeamStation sample export with 139 rows and masked direct-contact fields.
+> Free BeamStation sample export with 143 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `107792` |
 | Location | Rochester |
 | Category | Restaurants |
-| Full dataset size | 1,397 records |
-| Free sample size | 139 records (9.95%) |
-| Last export | 2026-04-28T10:44:27.728235+00:00 |
+| Full dataset size | 1,433 records |
+| Free sample size | 143 records (9.98%) |
+| Last export | 2026-05-05T12:19:00.399990+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rochester-new-york-us-sample-107792/releases/download/sample-latest/beamstation_107792_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
