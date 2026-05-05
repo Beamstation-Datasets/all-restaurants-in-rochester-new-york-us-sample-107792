@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c61eb5b7-3f27-4f4c-aa97-1ed5159613ef",
+  "export_job_id": "743f28fd-e607-4750-ade9-8b17766cbdf9",
   "id_short": 107792,
-  "published_at": "2026-04-28T19:50:54Z",
+  "published_at": "2026-05-05T19:14:18Z",
   "repo_name": "all-restaurants-in-rochester-new-york-us-sample-107792",
   "sample_asset_name": "beamstation_107792_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/107792/beamstation_107792_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 139,
-  "sample_sha256": "3449ca665b651505b49d10b83a6f93a962fa742754fdcd34ea23c410b57eb3c1",
-  "sample_size_bytes": 473494,
-  "total_records": 1397
+  "sample_records": 143,
+  "sample_sha256": "96225a31fb705877d1f59e39fbcc7f72b6346d15157322eed48a632d0e03bd5a",
+  "sample_size_bytes": 499387,
+  "total_records": 1433
 }
